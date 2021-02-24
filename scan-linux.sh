@@ -4,7 +4,7 @@ set -euo pipefail
 help="ORY Munich Office Scanning Utility
 
 usage:
-    scan.sh [front|back] [flatbed|ADF] <output.pdf>
+    ./scan-linux.sh [front|back] [flatbed|ADF] <output.pdf>
 
 Prequisities: sane-airscan, imagemagick
 "
